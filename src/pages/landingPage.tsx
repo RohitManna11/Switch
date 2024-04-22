@@ -91,7 +91,7 @@ const Main = () => {
             </a>
           </div>
         </div>
-        {/* <div className="relative w-[50%] h-[50vh] flex flex-col justify-start items-start gap-8">
+        <div className="relative w-[50%] h-[50vh] flex flex-col justify-start items-start gap-8">
           <div className="absolute h-[18rem] w-[18rem] left-[40%] z-[100]">
             <Image alt="Xstream NFT Red" src={XstreamNFTRed}></Image>
           </div>
@@ -101,7 +101,7 @@ const Main = () => {
           <div className="absolute h-[14rem] w-[14rem] left-[12%] top-[-10%] z-[75]">
             <Image alt="Xstream NFT Green" src={XstreamNFTBlue}></Image>
           </div>
-        </div> */}
+        </div>
       </div>
     </div>
   );
