@@ -93,7 +93,7 @@ const Main = () => {
         </div>
         <div className="relative w-[50%] h-[50vh] flex flex-col justify-start items-start gap-8">
           <div className="absolute h-[18rem] w-[18rem] left-[40%] z-[100]">
-            <Image alt="Xstream NFT Red" src={XstreamNFTRed}></Image>
+            <Image alt="Xstream NFT Red" src={XstreamNFTPurple}></Image>
           </div>
           <div className="absolute h-[10rem] w-[10rem] left-[20%] top-[60%] z-[50]">
             <Image alt="Xstream NFT Green" src={XstreamNFTGreen}></Image>
