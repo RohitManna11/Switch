@@ -165,7 +165,7 @@ const TokenGated = () => {
         <span className="text-white font-rubik font-normal text-[1.2rem] tracking-widest">
           <span className="text-textPurple">ERC1155 NFT tokens</span> are minted to
           the subscribers who subscriber to the streamer and can watch their
-          exclusive content on XStream. These NFTs are transferralble and can be
+          exclusive content on Switch. These NFTs are transferralble and can be
           sold on the marketplace. The NFTs metadata and additional details are
           stored on IPFS in a secure way.
         </span>

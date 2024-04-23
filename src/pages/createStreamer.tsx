@@ -166,7 +166,7 @@ const CreateStreamer = () => {
     const blob = new Blob([nftStringSVG], { type: "image/svg+xml" });
     const cid = await client.storeBlob(blob);
     const metadata = {
-      name: `Xstream NFT ${formData.name}`,
+      name: `Switch NFT ${formData.name}`,
       description: `This NFT is of ${formData.name} with description as ${formData.desp}.`,
       image: `ipfs://${cid}`,
     };

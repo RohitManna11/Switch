@@ -14,8 +14,8 @@ contract XstreamNFT is ERC1155 {
     string public symbol;
 
     constructor() ERC1155("XStreamNFT") {
-        name="Xstream";
-        symbol="XST";
+        name="Switch";
+        symbol="SWTH";
     }
 
     mapping(uint256=>uint) public streamerIdToNftSupply;

@@ -35,7 +35,7 @@ const EditProfile: React.FC<EditProfileProps> = ({
     name: isUser ? userData?.name : "Enter Your Name",
     desp: isUser
       ? userData?.desp
-      : "I am a user at Xstream, I like watching livestreams and videos",
+      : "I am a user at Switch, I like watching livestreams and videos",
   });
   const client = new NFTStorage({
     token: process.env.NEXT_PUBLIC_NFTSTORAGE_KEY as string,
